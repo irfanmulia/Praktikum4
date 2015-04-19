@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AplikasiPertama</string>
+    <string name="tombol_terjemah2">Ke Inggris</string>
+    <string name="tombol_terjemah">Ke Indonesia</string>
+    <string name="tombol_terjemah3">Ke Aceh</string>
+
+    <string name="hello_world">Hello Irfan!</string>
+    <string name="apa_kabar">Apa Kabar Irfan!</string>
+    <string name="pu_haba">Pu Haba Irfan!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
